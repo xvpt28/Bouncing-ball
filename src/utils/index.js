@@ -1,0 +1,1 @@
+export { getRandomValue } from "./tools";
